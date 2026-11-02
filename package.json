@@ -1,0 +1,10 @@
+{
+  "name": "import-ledger",
+  "version": "0.1.0",
+  "description": "Traceable CSV reconciliation with Python",
+  "scripts": {
+    "test": "python -m unittest -v",
+    "demo": "python ledger.py before.csv after.csv --key id"
+  },
+  "license": "ISC"
+}
